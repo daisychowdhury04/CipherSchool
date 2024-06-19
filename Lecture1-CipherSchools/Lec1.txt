@@ -1,0 +1,1 @@
+To set up my development environment, I first downloaded and installed Visual Studio Code (VSCode) and Node.js.
