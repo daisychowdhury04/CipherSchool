@@ -1,0 +1,13 @@
+In this lecture, I studied the concepts of frontend and backend development and their interactions. 
+The frontend connects with the backend, and the backend communicates with the database. 
+There can be multiple backends and servers.
+
+For the frontend, we study:
+- React
+
+For the backend, we study:
+- Node.js
+- Express
+
+For the database, we study:
+- MongoDB
